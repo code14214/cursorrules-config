@@ -1,4 +1,6 @@
 # Ignoriere alle Dateien und Ordner
 *
 !.cursorrules
-!.gitignore 
+!.gitignore
+!README.md
+!LICENSE 
