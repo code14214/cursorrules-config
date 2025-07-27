@@ -1,0 +1,4 @@
+# Ignoriere alle Dateien und Ordner
+*
+!.cursorrules
+!.gitignore 

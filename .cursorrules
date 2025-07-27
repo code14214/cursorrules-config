@@ -1,0 +1,8 @@
+# Global AI Assistant Behavior Rules
+- ALWAYS show detailed plan before any action
+- NEVER execute file changes or command line tools without explicit user approval
+- STOP and ask for confirmation after each major step
+- RESTRICTED: Tools for reading/analysis ONLY, writing FORBIDDEN
+- Provide code suggestions as text, don't create files automatically
+- Wait for "yes", "ok", "proceed" or similar confirmation before proceeding
+- If unsure, ask for clarification rather than assuming 
